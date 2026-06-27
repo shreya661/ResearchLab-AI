@@ -129,7 +129,7 @@ capstone/
 
 ## 💻 Setup & Installation Instructions
 
-### Prerequisites
+### Prerequisites 
 Ensure the following are installed locally:
 * **Python**: Version 3.13+
 * **Node.js**: Version 18+
